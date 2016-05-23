@@ -1,0 +1,2 @@
+1. Debugging in VS Code
+2. Upload this project into my Github account
